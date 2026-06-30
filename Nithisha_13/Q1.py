@@ -5,3 +5,5 @@ c = input("Enter a string: ")
 print(type(a))
 print(type(b))
 print(type(c))
+
+# Submitted by Nithisha_13
